@@ -529,10 +529,11 @@ form.example::after {
     border-bottom: 2px solid #9ba6ac2a;
     padding: 11px 0px 10px 20px;
     font-style:normal;
+    font-weight: bold;
 }
 
 .techmenu a:hover {
-    color:#b14c16 ;
+    color:#fc6e22 ;
 }
 
 .techmenu .fas {
